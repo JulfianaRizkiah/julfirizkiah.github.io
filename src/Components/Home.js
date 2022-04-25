@@ -8,7 +8,7 @@ const Home = () => {
 
                 <img src={"Julfi.jpeg"} className="Julfi" alt="logo" />
                 <h1> Julfiana Rizkiah F</h1>
-                <p> (Web Developer)</p>
+                <p> (Mahasiswa)</p>
 
 
                 <br></br>
