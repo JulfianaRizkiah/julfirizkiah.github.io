@@ -7,16 +7,14 @@ const Aboute = () => {
         <div className="Aboute">
         <h1>About Me</h1>
         <p>
-            Hi, saya adalah web developer yang berdomisisli di Lampung.
-            Saat ini sedang belajar HTML di Politeknik Negeri Lampung.
+            Hi, saya adalah mahasiswa yang berdomisili di Bandar Lampung 
+            dan saat ini saya berkuliah di Politeknik Negeri Lampung.
         </p>
         <p>
-            Saya memang masih baru dalam web development, karena itu
-            saya tidak akan pernah berhenti belajar.
+            Saya masih tergolong baru dalam dunia pemrograman dengan begitu saya akan terus belajar.
         </p>
         <p>
-            Saya ingin menguasai bahasa HTML, CSS, dan Javascript.
-            Simak video lengkap tentang saya.
+            Saya berusaha menguasai bahasa pemrograman yang telah saya pelajari.
         </p>
         <p>
             <video controls>

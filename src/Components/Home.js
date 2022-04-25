@@ -17,7 +17,7 @@ const Home = () => {
 
 
                     <h2> overview</h2>
-                    <p>  Hi, saya adalah web developer yang berdomisisli di Lampung.
+                    <p>  Hi, saya adalah Mahasiswa yang berdomisisli di Lampung.
                         Saat ini sedang belajar HTML di Politeknik Negeri Lampung.</p>
                 </div>
                 <div className="Skill">
@@ -64,9 +64,9 @@ const Home = () => {
 
                                     <td>
                                         <ul>
-                                            <li>Freelancer di Internet</li>
-                                            <li>Leaeder Local Linux Community</li>
-                                            <li>Kontributor Open Source</li>
+                                            <li>Freelancer</li>
+                                            <li>Penulis</li>
+                                            <li>Mahasiswa</li>
                                         </ul>
                                     </td>
                                 </button>

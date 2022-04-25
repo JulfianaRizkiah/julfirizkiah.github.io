@@ -1,11 +1,3 @@
-const express = require('exspress');
-
-const app = express();
-
-const PORT = process.env.PORT|| 5050;
-
-app.listen(PORT, () =>  console.log(`server is running in port ${PORT}`));
-
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
