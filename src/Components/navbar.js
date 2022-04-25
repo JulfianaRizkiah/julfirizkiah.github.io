@@ -5,7 +5,7 @@ const HeaderAtas = () => {
    
     <div className="navbar">
     
-  <Navbar bg="light" variant="light" color="blue">
+  <Navbar bg="light" variant="light" color="yellow">
   <Container>
     <Nav.Link href="/home"> <strong>Home </strong></Nav.Link>
   
